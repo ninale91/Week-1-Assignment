@@ -27,13 +27,14 @@ div{
 
 p{
   font-family: serif;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 img {
   width: 150px;
   float:right;
   margin-bottom: 10px;
+  border: 1px solid black;
 }
 
 nav{
