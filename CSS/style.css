@@ -56,3 +56,8 @@ padding: 10px
 a {
     color: black;
 }
+
+hr {
+  margin-left:20%;
+  margin-right: 20%;
+}
